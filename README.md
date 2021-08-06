@@ -28,6 +28,6 @@
 <div> 
    <img src="https://komarev.com/ghpvc/?username=MayNachbar&color=green" alt="MayNachbar" /> 
 
-  ![Snake animation](https://github.com/MayNachbar/MayNachbar/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MayNachbar/MayNachbar/blob/main/.github/workflows/main.yml)
  
 </div>
