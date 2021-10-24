@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo(a) ao meu GitHub! Eu sou a Maynara Ellen Nachbar
+### Olá! Seja bem-vindo(a) ao meu GitHub! Eu sou a Maynara Nachbar
 
 - 👩‍💻 Atualmente estou em transição de carreira para a área de tecnologia.
 - 📚 Estou estudando desenvolvimento full-stack.
