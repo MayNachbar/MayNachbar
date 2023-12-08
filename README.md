@@ -1,7 +1,7 @@
 ### Olá! Seja bem-vindo(a) ao meu GitHub! Eu sou a Maynara Nachbar
 
-- 👩‍💻 Atualmente estou em transição de carreira para a área de tecnologia.
-- 📚 Estou estudando desenvolvimento full-stack.
+- 👩‍💻 Atualmente trabalho na área de tecnologia com C#.
+- 📚 Estou me aprofundando em conhecimento C# e começando os estudos com JAVA.
 - 🎓 Sou formada em Engenharia Física.
 - 😄 Pronouns: ela/dela
 
@@ -16,16 +16,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayNachbar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="May-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="May-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="May-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="May-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="May-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="May-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="May-CSS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="May-C#" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="May-Gif" height="160" width="220"
-src="https://acegif.com/wp-content/uploads/cat-typing-7.gif">
+  <img align="center" alt="May-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="right"  alt="May-Gif" height="160" width="220" src="https://acegif.com/wp-content/uploads/cat-typing-7.gif">
 </div>
   
   ##
